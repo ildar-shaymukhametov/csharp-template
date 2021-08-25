@@ -1,4 +1,4 @@
-import { program } from "../src/program";
+import { Program } from "../src/program";
 
 test("program", () => {
   

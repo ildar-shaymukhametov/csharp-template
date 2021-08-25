@@ -1,3 +1,3 @@
-export function program() {
+export class Program {
   
 }
